@@ -1,0 +1,216 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    width: 1440px;
+    margin: auto;
+    background: grey;
+    /* font-family: 'Poppins', sans-serif; */
+    /* margin-block-start: 0px;
+    margin-block-end: 0px; */
+}
+
+
+.header-box{
+    width: 1440px;
+    margin: auto;
+    background-color: #FFFFFF;
+    
+}
+
+.nav-list {
+    list-style: none;
+    font-size: 16px;
+}
+
+.nav-items{
+    display: inline-block;
+    margin: 0px;
+    padding-right: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #2F281E;
+    }
+.nav-items:hover{
+    cursor: pointer;
+    display: inline-block;
+    margin: 0px;
+    padding-right: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color:#FF9900;
+}
+
+.img-span{
+    display: inline-block;
+    padding: 24.03px 198px 24.03px 120px;
+   }   
+
+.list-span{
+    padding-right: 178px;
+    padding-top: 26px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+
+.button-span{
+    padding-right: 32px;
+    padding-top: 17px;
+    display: inline-block;
+    vertical-align: top;
+    
+} 
+
+.button-sign{
+    width: 110px;
+    height: 46px;
+    border: 1px solid #BCD0E5;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}   
+
+.button-sign:hover{
+    cursor: pointer;
+    width: 110px;
+    height: 46px;
+    border: 1px solid #FF9900;
+    border-radius: 4px;
+    background-color: #FF9900;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+    
+.thinking{
+    width: 1440px;
+    margin: auto;
+    background-color: #FFFFFF;
+}
+
+
+.thinking-blocks{
+    vertical-align: top;
+    display: inline-block;
+}
+
+.button-orange{
+    cursor: pointer;
+    width: 180px;
+    height: 50px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    border: 1px solid #FF9900;
+    border-radius: 4px;
+    background-color: #FF9900;
+    color: #FFFFFF;
+    margin-left: 120px;
+}
+
+.chapter-main-thinking{
+    padding-top: 167px;
+    padding-left: 120px;
+    padding-bottom: 30px;
+    padding-right: 56px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 54px;
+    color: #2F281E;
+}
+
+.parag-thinking{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #544837;
+    padding-left: 120px;
+    padding-bottom: 20px;
+}
+
+.pic-thinking{
+    margin-top: 70px;
+    margin-left: 56px;
+}
+
+.chapter-second{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 99px;
+    padding-bottom: 50px ;
+}
+
+.icons{
+    display: inline-block;
+    margin-left: 40px;
+
+}   
+
+.icons-first{
+    display: inline-block;
+    margin-left: 120px;
+}
+
+
+.icons-background{
+    display: block;
+    background-image: url(./images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* background-attachment: fixed; */
+}
+
+.chapter-third {
+    margin-top: 30px;
+    margin-bottom: 16px;
+}
+
+.button-signup-now{
+    cursor: pointer;
+    width: 180px;
+    height: 50px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    border: 1px solid #FF9900;
+    border-radius: 4px;
+    background-color: #FF9900;
+    color: #FFFFFF;
+    margin-left: 120px;
+    margin-top: 70px;
+    margin-bottom: 74px;
+    margin-left: 635px;
+}
